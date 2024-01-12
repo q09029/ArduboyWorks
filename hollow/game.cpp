@@ -106,7 +106,7 @@ PROGMEM static const byte soundGameOver[] = {
     0x90, 51, 0, 200, 0x80, 0, 50,
     0x90, 50, 0, 220, 0x80, 0, 60,
     0x90, 49, 0, 240, 0x80, 0, 70,
-    0x90, 48, 0, 260, 0x80, 0xF0
+    0x90, 48, 0, 255, 0x80, 0xF0
 };
 
 static bool     isStart;
